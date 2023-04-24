@@ -1,4 +1,4 @@
-Script started on Sun Apr 23 22:42:55 2023
+Script started on Sun Apr 19 22:42:55 2023
 ]0;sousak@r1n26.darwin:~[?1034h[sousak@r1n26 ~]$ srun ./image_pthrds pic1.jpg edge
 Took 7 seconds
 ]0;sousak@r1n26.darwin:~[sousak@r1n26 ~]$ srun ./image_opnmp pic1.jpg edge
@@ -6,4 +6,4 @@ Took 7 seconds
 ]0;sousak@r1n26.darwin:~[sousak@r1n26 ~]$ exit
 exit
 
-Script done on Sun Apr 23 22:43:20 2023
+Script done on Sun Apr 19 22:43:20 2023
