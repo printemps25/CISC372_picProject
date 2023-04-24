@@ -7,4 +7,3 @@ Took 7 seconds
 exit
 
 Script done on Wed Apr 19 22:43:20 2023
- 
